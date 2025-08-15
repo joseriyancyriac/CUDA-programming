@@ -1,2 +1,3 @@
 *.o
 src/hello_threads
+hello_2D
