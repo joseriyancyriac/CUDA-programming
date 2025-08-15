@@ -1,5 +1,8 @@
 # CUDA 13.0 + NVIDIA Driver Installation on Ubuntu 22.04
 
+> [!WARNING]
+> THIS GUIDE IS GENRATED BY CHATGPT! caution is advised!
+
 > This guide documents a **tested**, **repeatable** way to install the NVIDIA driver and CUDA 13.0 toolkit on Ubuntu 22.04.
 > 
 > It covers:
